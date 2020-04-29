@@ -1,0 +1,18 @@
+{
+  "name": "refresher-01-basic-node-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaidenDilan/node-refresher-01-basic-node-code.git"
+  },
+  "author": "Raiden Dilan <raiden18@me.com> (https://www.raidendilan.co.uk)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
